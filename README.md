@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 🚀 About Me
-
-I’m a part-time Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia (UTM), passionate about crafting efficient and innovative software solutions. Balancing studies and projects, I thrive on problem-solving and learning new technologies.
-
 <h1 align="center">Hi 👋, I'm Zaidi bin Ahmad</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+I’m a part-time Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia (UTM), passionate about crafting efficient and innovative software solutions. Balancing studies and projects, I thrive on problem-solving and learning new technologies.
 
 - 📫 How to reach me **zaidifx@gmail.com**
 
