@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m a part-time Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia (UTM), passionate about crafting efficient and innovative software solutions. Balancing studies and projects, I thrive on problem-solving and learning new technologies.
+
 <!--
 **zydy82/zydy82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
