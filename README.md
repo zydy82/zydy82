@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🚀 About Me
 I’m a part-time Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia (UTM), passionate about crafting efficient and innovative software solutions. Balancing studies and projects, I thrive on problem-solving and learning new technologies.
 
 <!--
