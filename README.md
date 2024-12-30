@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Zaidi bin Ahmad</h1>
 I’m a part-time Bachelor of Computer Science (Software Engineering) student at Universiti Teknologi Malaysia (UTM), passionate about crafting efficient and innovative software solutions. Balancing studies and projects, I thrive on problem-solving and learning new technologies.
 
-- 📫 How to reach me **zaidifx@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **zaidifx@gmail.com**
 <p align="left">
 </p>
 
