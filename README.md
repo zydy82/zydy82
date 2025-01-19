@@ -60,9 +60,13 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
   2. **Introduction**: Background of the industry speaker and talk focus.  
   3. **Content**: Insights into ICT job trends, required skills, and future prospects.  
   4. **Reflection**: Team's key takeaways and personal views on the topic.  
-- **Team Members** (listed on the poster):  
-  - Zaidi bin Ahmad | Matric Card: [Your Matric Number]  
-  - [Other Team Members, Names, and Photos]  
+- **Team Members**:  
+  - ZAIDI BIN AHMAD | Matric Card: [SX222136ECJHF03]
+  - SUMATHI KESAVAN | Matric Card: [ SX212327ECJHF03]
+  - MUHAMMAD SYAFIQ BIN MOHD ZAFRI | Matric Card: [SX211667ECJHF03]
+  - MUHAMMAD AIZAT BIN AB RASHID | Matric Card: [SX220320ECJHS03]
+  - MUHAMMAD FARHAN BIN MOHD IZHAR | Matric Card: [SX212313ECJHF03]
+    
 
 #### **Assignment 2: Video**
 - **Option Chosen:** IT Usage at Your Workplace  
@@ -101,16 +105,19 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
   - Creative and visually appealing design.  
 - **Resources:**
   - [Academic Phrasebank – The University of Manchester](#)  
-  - [How to write in an academic style – StudySkills@Sheffield](#)  
-
-#### Assignment 4: Technical Paper (IEEE Format)
-[Link to paper]
+  - [How to write in an academic style – StudySkills@Sheffield](#)
+- **Team Members** (listed on the poster):  
+  - ZAIDI BIN AHMAD | Matric Card: [SX222136ECJHF03]
+  - SUMATHI KESAVAN | Matric Card: [ SX212327ECJHF03]
+  - MUHAMMAD SYAFIQ BIN MOHD ZAFRI | Matric Card: [SX211667ECJHF03]
+  - MUHAMMAD AIZAT BIN AB RASHID | Matric Card: [SX220320ECJHS03]
+  - MUHAMMAD FARHAN BIN MOHD IZHAR | Matric Card: [SX212313ECJHF03]
 
 ### PC Assemble (Lab)
 
 #### [Insert details or links]
 
-### Design Thinking (Low Fidelity Prototype)
+### Project (Group): Design Thinking
 
 #### Assignment 1  
 [Link to assignment 1]
