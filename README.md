@@ -47,14 +47,61 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 ### Industry Talk and Industry Visit
 
-#### Assignment 1: Poster
-[Link to poster]
+#### **Assignment 1: Industry Talk 1**
+- **Subject:** Technology and Information System (SECP1513)  
+- **Session:** 202420251  
+- **Task:** POSTER on **"Overview of ICT Jobs in Industry"**  
+- **Due Date:** 5 January 2025  
+- **Submission Details:**
+  - [PDF version of the poster](#) (uploaded to e-learning)
+  - [JPG version of the poster](#) (uploaded to GitHub)
+- **Poster Content:**  
+  1. **Executive Summary**: Brief overview of the talk and its relevance to ICT jobs.  
+  2. **Introduction**: Background of the industry speaker and talk focus.  
+  3. **Content**: Insights into ICT job trends, required skills, and future prospects.  
+  4. **Reflection**: Team's key takeaways and personal views on the topic.  
+- **Team Members** (listed on the poster):  
+  - Zaidi bin Ahmad | Matric Card: [Your Matric Number]  
+  - [Other Team Members, Names, and Photos]  
 
-#### Assignment 2: Video
-[Link to video]
+#### **Assignment 2: Video**
+- **Option Chosen:** IT Usage at Your Workplace  
+- **Description:** This video highlights the implementation of IT in my workplace, showcasing tools, systems, and their benefits to daily operations.  
+- **Duration:** Maximum 5 minutes  
+- **Content Overview:**  
+  1. Introduction to IT in the workplace  
+  2. Overview of tools and systems used  
+  3. Demonstration or examples  
+  4. Benefits and challenges  
+  5. Conclusion and reflections  
+- [Link to video](#)
 
-#### Assignment 3: Report
-[Link to report]
+#### **Assignment 3: Industry Talk 2**
+- **Subject:** Technology and Information System (SECP1513)  
+- **Session:** 2024/2025 Semester 1  
+- **Task:** Academic Writing on **"Skills in University and Industry"**  
+- **Duration:** 10 Days (22 December 2024 until 1 January 2025 before 12.00 am)  
+- **Submission Details:**
+  - [PDF version of the report](#) (uploaded to UTM E-learning)
+  - [PDF version of the report](#) (uploaded to GitHub, a week after submission on UTM E-learning)  
+- **Report Content:**  
+  1. **Cover Page:**
+     - Proper title and representative picture.  
+     - Titles for the topics covered in the report.  
+     - Names of group members.  
+  2. **Main Content:**
+     - Description of the speaker’s experience.  
+     - Basic skills required for computer science.  
+     - Skills required by industry (with references from academic papers).  
+     - Reflections from each team member: "How will you succeed in computer science in the next four years?"  
+  3. **References List:** Properly formatted references cited in the report.  
+- **Design Requirements:**  
+  - Justify alignment for text description.  
+  - Include page numbers on each page.  
+  - Creative and visually appealing design.  
+- **Resources:**
+  - [Academic Phrasebank – The University of Manchester](#)  
+  - [How to write in an academic style – StudySkills@Sheffield](#)  
 
 #### Assignment 4: Technical Paper (IEEE Format)
 [Link to paper]
@@ -81,17 +128,33 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 ## 🤐 Reflections
 
-### Course Summaries
+#### **Industry Talk 1: Overview of ICT Jobs in Industry**
+- **Key Takeaways:**  
+  - Gained insights into current and emerging ICT job trends in the industry.  
+  - Understood the importance of continuous skill development and adapting to technological advancements.  
+  - Realized the increasing demand for specialized roles such as AI engineers, data scientists, and cybersecurity experts.  
+- **Suggestions for Improvement:**  
+  - Include a Q&A session during future talks to allow for audience interaction.  
+  - Provide more local context about ICT job opportunities in Malaysia.  
 
-- **Course Name**: [Insert summary of what was learned and skills developed.]
+#### **Video Reflection: IT Usage at Your Workplace**
+- **Key Takeaways:**  
+  - IT streamlines workplace processes, improving efficiency and collaboration.  
+  - Using IT tools enhances communication and task management within teams.  
+- **Challenges:**  
+  - Adapting to new tools requires training and time investment.  
+  - Ensuring security and data protection is a critical ongoing task.  
 
-### Suggestions for Improvement
-
-- [Insert suggestions for course or personal improvement.]
-
-### Additional Reflections
-
-- [Add any other reflections based on your ideas and creativity.]
+#### **Industry Talk 2: Skills in University and Industry**
+- **Key Takeaways:**  
+  - Understood the critical skills required for bridging the gap between academic learning and industry demands.  
+  - Learned about the speaker’s personal journey and how they adapted their skills to succeed in the field.  
+  - Identified key skills such as teamwork, problem-solving, communication, and staying updated with emerging technologies.  
+- **Reflection:**  
+  - In the next four years, I aim to:
+    - Enhance my programming and technical skills through hands-on projects and internships.  
+    - Develop soft skills like teamwork and adaptability to align with industry expectations.  
+    - Stay informed about trends like AI, cloud computing, and cybersecurity to remain competitive.  
 
 ---
 
@@ -117,9 +180,4 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Microsoft SQL Server](https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
