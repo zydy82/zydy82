@@ -59,8 +59,8 @@ Assignment 2: Video - IT Usage at Your Workplace: This video highlights the impl
 Assignment 3: Industry Talk 2 - Skills in University and Industry: This report focuses on analyzing the skills required for success in computer science both in university and the industry. It includes insights from industry speakers and academic research, exploring the essential skills students must develop and how they align with industry demands.
 
 ### PC Assemble (Lab)
-
-#### [Insert details or links]
+[https://github.com/zydy82/PC-Assemble-Lab ]
+Quiz - PC Assemble (Lab): This quiz assesses the ability to correctly identify and describe the step-by-step process of assembling a computer hardware system. The first section focuses on labeling various computer components, while the second section evaluates the understanding of the correct sequence of steps for assembling a PC based on the hands-on workshop practice.
 
 ### Project (Group): Design Thinking
 
