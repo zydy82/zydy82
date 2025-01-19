@@ -55,37 +55,8 @@ Assignment 1: Industry Talk 1 - ICT Jobs in Industry: This assignment focuses on
 Assignment 2: Video - IT Usage at Your Workplace: This video highlights the implementation of IT in my workplace, showcasing tools, systems, and their benefits to daily operations. It explores the role of technology in enhancing workplace efficiency and addresses challenges faced in integrating IT solutions.
 
 #### **Assignment 3: Industry Talk 2**
-- **Subject:** Technology and Information System (SECP1513)  
-- **Session:** 2024/2025 Semester 1  
-- **Task:** Academic Writing on **"Skills in University and Industry"**  
-- **Duration:** 10 Days (22 December 2024 until 1 January 2025 before 12.00 am)  
-- **Submission Details:**
-  - [PDF version of the report](#) (uploaded to UTM E-learning)
-  - [PDF version of the report](#) (uploaded to GitHub, a week after submission on UTM E-learning)  
-- **Report Content:**  
-  1. **Cover Page:**
-     - Proper title and representative picture.  
-     - Titles for the topics covered in the report.  
-     - Names of group members.  
-  2. **Main Content:**
-     - Description of the speaker’s experience.  
-     - Basic skills required for computer science.  
-     - Skills required by industry (with references from academic papers).  
-     - Reflections from each team member: "How will you succeed in computer science in the next four years?"  
-  3. **References List:** Properly formatted references cited in the report.  
-- **Design Requirements:**  
-  - Justify alignment for text description.  
-  - Include page numbers on each page.  
-  - Creative and visually appealing design.  
-- **Resources:**
-  - [Academic Phrasebank – The University of Manchester](#)  
-  - [How to write in an academic style – StudySkills@Sheffield](#)
-- **Team Members** (listed on the poster):  
-  - ZAIDI BIN AHMAD | Matric Card: [SX222136ECJHF03]
-  - SUMATHI KESAVAN | Matric Card: [SX212327ECJHF03]
-  - MUHAMMAD SYAFIQ BIN MOHD ZAFRI | Matric Card: [SX211667ECJHF03]
-  - MUHAMMAD AIZAT BIN AB RASHID | Matric Card: [SX220320ECJHS03]
-  - MUHAMMAD FARHAN BIN MOHD IZHAR | Matric Card: [SX212313ECJHF03]
+[https://github.com/zydy82/Assignment-3-Industry-Talk-2 ]
+Assignment 3: Industry Talk 2 - Skills in University and Industry: This report focuses on analyzing the skills required for success in computer science both in university and the industry. It includes insights from industry speakers and academic research, exploring the essential skills students must develop and how they align with industry demands.
 
 ### PC Assemble (Lab)
 
