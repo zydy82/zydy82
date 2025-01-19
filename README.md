@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 
-![Profile Picture](https://github.com/settings/profile)
 
 Hi 👋, I'm **Zaidi bin Ahmad**
 
