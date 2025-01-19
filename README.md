@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-![Profile Picture](https://via.placeholder.com/150)
+![Profile Picture](https://github.com/settings/profile)
 
 Hi 👋, I'm **Zaidi bin Ahmad**
 
