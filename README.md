@@ -2,9 +2,97 @@
 
 ## 🚀 About Me
 
+![Profile Picture](https://via.placeholder.com/150)
+
 Hi 👋, I'm **Zaidi bin Ahmad**
 
 I’m a part-time **Bachelor of Computer Science (Software Engineering)** student at **Universiti Teknologi Malaysia (UTM)**, passionate about crafting efficient and innovative software solutions. Balancing studies and projects, I thrive on problem-solving and learning new technologies.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Computer Science (Software Engineering)**  
+  Universiti Teknologi Malaysia (UTM)
+
+---
+
+## 💼 Positions
+
+- **Part-Time Student**  
+  Universiti Teknologi Malaysia (UTM)
+
+---
+
+## ⚖️ Skills
+
+- Programming Languages: C++, Java, JavaScript, Python, PHP
+- Web Technologies: HTML5, CSS3, MySQL, Microsoft SQL Server
+- Tools: Git, Figma, Adobe XD
+
+---
+
+## 🔢 Certifications
+
+- [Insert certificate name and issuer]
+
+---
+
+## 🏆 Honors and Awards
+
+- [Insert award name and date]
+
+---
+
+## 🔄 Projects
+
+### Industry Talk and Industry Visit
+
+#### Assignment 1: Poster
+[Link to poster]
+
+#### Assignment 2: Video
+[Link to video]
+
+#### Assignment 3: Report
+[Link to report]
+
+#### Assignment 4: Technical Paper (IEEE Format)
+[Link to paper]
+
+### PC Assemble (Lab)
+
+#### [Insert details or links]
+
+### Design Thinking (Low Fidelity Prototype)
+
+#### Assignment 1  
+[Link to assignment 1]
+
+#### Assignment 2  
+[Link to assignment 2]
+
+#### Assignment 3  
+[Link to assignment 3]
+
+#### Assignment 4  
+[Link to assignment 4]
+
+---
+
+## 🤐 Reflections
+
+### Course Summaries
+
+- **Course Name**: [Insert summary of what was learned and skills developed.]
+
+### Suggestions for Improvement
+
+- [Insert suggestions for course or personal improvement.]
+
+### Additional Reflections
+
+- [Add any other reflections based on your ideas and creativity.]
 
 ---
 
