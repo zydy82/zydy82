@@ -52,8 +52,7 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 - **Task:** POSTER on **"Overview of ICT Jobs in Industry"**  
 - **Due Date:** 5 January 2025  
 - **Submission Details:**
-  - [PDF version of the poster](#) (uploaded to e-learning)
-  - [JPG version of the poster](#) (uploaded to GitHub)
+  - [https://github.com/zydy82/Assignment-1-Industry-Talk-1]
 - **Poster Content:**  
   1. **Executive Summary**: Brief overview of the talk and its relevance to ICT jobs.  
   2. **Introduction**: Background of the industry speaker and talk focus.  
