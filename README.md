@@ -44,8 +44,6 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 ## 🔄 Projects
 
-### Industry Talk and Industry Visit
-
 #### **Assignment 1: Industry Talk 1**
 - **Subject:** Technology and Information System (SECP1513)  
 - **Session:** 202420251  
