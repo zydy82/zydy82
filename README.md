@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 
-
 Hi 👋, I'm **Zaidi bin Ahmad**
 
 I’m a part-time **Bachelor of Computer Science (Software Engineering)** student at **Universiti Teknologi Malaysia (UTM)**, passionate about crafting efficient and innovative software solutions. Balancing studies and projects, I thrive on problem-solving and learning new technologies.
@@ -60,13 +59,12 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
   2. **Introduction**: Background of the industry speaker and talk focus.  
   3. **Content**: Insights into ICT job trends, required skills, and future prospects.  
   4. **Reflection**: Team's key takeaways and personal views on the topic.  
-- **Team Members**:  
+- **Team Members:**  
   - ZAIDI BIN AHMAD | Matric Card: [SX222136ECJHF03]
-  - SUMATHI KESAVAN | Matric Card: [ SX212327ECJHF03]
+  - SUMATHI KESAVAN | Matric Card: [SX212327ECJHF03]
   - MUHAMMAD SYAFIQ BIN MOHD ZAFRI | Matric Card: [SX211667ECJHF03]
   - MUHAMMAD AIZAT BIN AB RASHID | Matric Card: [SX220320ECJHS03]
   - MUHAMMAD FARHAN BIN MOHD IZHAR | Matric Card: [SX212313ECJHF03]
-    
 
 #### **Assignment 2: Video**
 - **Option Chosen:** IT Usage at Your Workplace  
@@ -108,7 +106,7 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
   - [How to write in an academic style – StudySkills@Sheffield](#)
 - **Team Members** (listed on the poster):  
   - ZAIDI BIN AHMAD | Matric Card: [SX222136ECJHF03]
-  - SUMATHI KESAVAN | Matric Card: [ SX212327ECJHF03]
+  - SUMATHI KESAVAN | Matric Card: [SX212327ECJHF03]
   - MUHAMMAD SYAFIQ BIN MOHD ZAFRI | Matric Card: [SX211667ECJHF03]
   - MUHAMMAD AIZAT BIN AB RASHID | Matric Card: [SX220320ECJHS03]
   - MUHAMMAD FARHAN BIN MOHD IZHAR | Matric Card: [SX212313ECJHF03]
@@ -119,17 +117,43 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 ### Project (Group): Design Thinking
 
-#### Assignment 1  
-[Link to assignment 1]
+#### **Assignment 1: Report - 10%**
+Students are required to write a report documenting all phases of the Design Thinking process based on the theme **Big Data and Artificial Intelligence - New Innovation**. The report includes:
+1. **Introduction**: Overview of the project and its objectives.
+2. **Design Thinking Process**:
+   - Empathy: User questions and answers, composite character (e.g., age, background).
+   - Define: Identified problems and needs.
+   - Ideate: Brainstorming ideas and solutions.
+   - Prototype: Development process.
+   - Test: User feedback and prototype evaluation.
+3. **Detailed Problem and Solution**: Insight into the challenges and how they were addressed collaboratively.
+4. **Assessment Points**:
+   - During project demonstrations.
+   - During transitions between phases.
+5. **Evidence**:
+   - Logs, images, videos, and brainstorming records.
+6. **Reflections (Individual)**:
+   - Goals and aspirations in the program.
+   - Impact of Design Thinking on personal goals.
+   - Plans for improving industry potential.
+7. **Team Contributions**: Tasks assigned to each member.
 
-#### Assignment 2  
-[Link to assignment 2]
+#### **Assignment 2: Video - 5%**
+Students are required to create a video showcasing the Design Thinking process. Video content includes:
+1. **Introduction**: Overview of the topic and objectives.
+2. **Design Thinking Process**: Visual representation of Empathy, Define, Ideate, Prototype, and Test phases.
+3. **Problem, Solution, and Teamwork**: Collaborative efforts in addressing the design challenge.
+4. **Assessment Points**:
+   - During project demonstration.
+   - Between phase transitions.
+5. **Evidence**:
+   - Logs, user interactions, prototypes, and testing.
 
-#### Assignment 3  
-[Link to assignment 3]
+**Video Duration**: 4–5 minutes.  
+**Submission**: Upload using relevant software tools.
 
-#### Assignment 4  
-[Link to assignment 4]
+#### **Assignment 3: Presentation - 5%**
+Present the project findings, emphasizing the Design Thinking phases, solutions, and reflections. Scheduled presentations as per lecturer’s instructions.
 
 ---
 
@@ -181,10 +205,10 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 ## 🔬 Languages and Tools
 
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style
+
