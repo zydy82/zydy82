@@ -51,7 +51,7 @@ Assignment 1: Industry Talk 1 - ICT Jobs in Industry: This assignment focuses on
 
 
 #### **Assignment 2: Video**
-[https://github.com/zydy82/Assignment-2-Video/tree/main]
+[https://github.com/zydy82/Assignment-2-Video]
 Assignment 2: Video - IT Usage at Your Workplace: This video highlights the implementation of IT in my workplace, showcasing tools, systems, and their benefits to daily operations. It explores the role of technology in enhancing workplace efficiency and addresses challenges faced in integrating IT solutions.
 
 #### **Assignment 3: Industry Talk 2**
