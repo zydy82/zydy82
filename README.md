@@ -62,46 +62,8 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 ### Project (Group): Design Thinking
 
-🟡 IN PROGRESS: Design Thinking Task - Big Data and Artificial Intelligence
+🆕 Design Thinking Task: Big Data and Artificial Intelligence New Innovation
 This task focuses on applying the design thinking process to address challenges related to Big Data and Artificial Intelligence. Students are required to collaboratively work in groups to develop innovative solutions, document their process, and present their findings through a written report, a video, and a class presentation.
-
-#### **Assignment 1: Report - 10%**
-Students are required to write a report documenting all phases of the Design Thinking process based on the theme **Big Data and Artificial Intelligence - New Innovation**. The report includes:
-1. **Introduction**: Overview of the project and its objectives.
-2. **Design Thinking Process**:
-   - Empathy: User questions and answers, composite character (e.g., age, background).
-   - Define: Identified problems and needs.
-   - Ideate: Brainstorming ideas and solutions.
-   - Prototype: Development process.
-   - Test: User feedback and prototype evaluation.
-3. **Detailed Problem and Solution**: Insight into the challenges and how they were addressed collaboratively.
-4. **Assessment Points**:
-   - During project demonstrations.
-   - During transitions between phases.
-5. **Evidence**:
-   - Logs, images, videos, and brainstorming records.
-6. **Reflections (Individual)**:
-   - Goals and aspirations in the program.
-   - Impact of Design Thinking on personal goals.
-   - Plans for improving industry potential.
-7. **Team Contributions**: Tasks assigned to each member.
-
-#### **Assignment 2: Video - 5%**
-Students are required to create a video showcasing the Design Thinking process. Video content includes:
-1. **Introduction**: Overview of the topic and objectives.
-2. **Design Thinking Process**: Visual representation of Empathy, Define, Ideate, Prototype, and Test phases.
-3. **Problem, Solution, and Teamwork**: Collaborative efforts in addressing the design challenge.
-4. **Assessment Points**:
-   - During project demonstration.
-   - Between phase transitions.
-5. **Evidence**:
-   - Logs, user interactions, prototypes, and testing.
-
-**Video Duration**: 4–5 minutes.  
-**Submission**: Upload using relevant software tools.
-
-#### **Assignment 3: Presentation - 5%**
-Present the project findings, emphasizing the Design Thinking phases, solutions, and reflections. Scheduled presentations as per lecturer’s instructions.
 
 ---
 
