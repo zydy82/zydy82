@@ -46,25 +46,23 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 #### **Assignment 1: Industry Talk 1**
 [https://github.com/zydy82/Assignment-1-Industry-Talk-1]
-Assignment 1: Industry Talk 1 - ICT Jobs in Industry: This assignment focuses on creating a poster that provides an overview of ICT jobs in the industry. The poster will summarize insights from an industry talk, covering trends, required skills, and future prospects for ICT professionals. The task involves both individual and team collaboration to reflect on key takeaways and how the discussion aligns with future career paths in the tech industry.
-
-
+🆕 Assignment 1: Industry Talk 1 - ICT Jobs in Industry: This assignment focuses on creating a poster that provides an overview of ICT jobs in the industry. The poster will summarize insights from an industry talk, covering trends, required skills, and future prospects for ICT professionals. The task involves both individual and team collaboration to reflect on key takeaways and how the discussion aligns with future career paths in the tech industry.
 
 #### **Assignment 2: Video**
 [https://github.com/zydy82/Assignment-2-Video]
-Assignment 2: Video - IT Usage at Your Workplace: This video highlights the implementation of IT in my workplace, showcasing tools, systems, and their benefits to daily operations. It explores the role of technology in enhancing workplace efficiency and addresses challenges faced in integrating IT solutions.
+🆕 Assignment 2: Video - IT Usage at Your Workplace: This video highlights the implementation of IT in my workplace, showcasing tools, systems, and their benefits to daily operations. It explores the role of technology in enhancing workplace efficiency and addresses challenges faced in integrating IT solutions.
 
 #### **Assignment 3: Industry Talk 2**
 [https://github.com/zydy82/Assignment-3-Industry-Talk-2 ]
-Assignment 3: Industry Talk 2 - Skills in University and Industry: This report focuses on analyzing the skills required for success in computer science both in university and the industry. It includes insights from industry speakers and academic research, exploring the essential skills students must develop and how they align with industry demands.
+🆕 Assignment 3: Industry Talk 2 - Skills in University and Industry: This report focuses on analyzing the skills required for success in computer science both in university and the industry. It includes insights from industry speakers and academic research, exploring the essential skills students must develop and how they align with industry demands.
 
 ### PC Assemble (Lab)
 [https://github.com/zydy82/PC-Assemble-Lab ]
-Quiz - PC Assemble (Lab): This quiz assesses the ability to correctly identify and describe the step-by-step process of assembling a computer hardware system. The first section focuses on labeling various computer components, while the second section evaluates the understanding of the correct sequence of steps for assembling a PC based on the hands-on workshop practice.
+🆕 Quiz - PC Assemble (Lab): This quiz assesses the ability to correctly identify and describe the step-by-step process of assembling a computer hardware system. The first section focuses on labeling various components of the computer, while the second section evaluates the understanding of the correct sequence of steps for assembling a PC based on the hands-on workshop practice.
 
 ### Project (Group): Design Thinking
 
-🆕 Design Thinking Task: Big Data and Artificial Intelligence New Innovation
+🟡 IN PROGRESS: Design Thinking Task - Big Data and Artificial Intelligence
 This task focuses on applying the design thinking process to address challenges related to Big Data and Artificial Intelligence. Students are required to collaboratively work in groups to develop innovative solutions, document their process, and present their findings through a written report, a video, and a class presentation.
 
 #### **Assignment 1: Report - 10%**
