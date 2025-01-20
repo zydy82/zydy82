@@ -61,7 +61,7 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 🆕 Quiz - PC Assemble (Lab): This quiz assesses the ability to correctly identify and describe the step-by-step process of assembling a computer hardware system. The first section focuses on labeling various components of the computer, while the second section evaluates the understanding of the correct sequence of steps for assembling a PC based on the hands-on workshop practice.
 
 ### Project (Group): Design Thinking
-
+[https://github.com/zydy82/Project-Group-Design-Thinking]
 🆕 Design Thinking Task: Big Data and Artificial Intelligence New Innovation
 This task focuses on applying the design thinking process to address challenges related to Big Data and Artificial Intelligence. Students are required to collaboratively work in groups to develop innovative solutions, document their process, and present their findings through a written report, a video, and a class presentation.
 
