@@ -19,7 +19,8 @@ I’m a part-time **Bachelor of Computer Science (Software Engineering)** studen
 
 - **Part-Time Student**  
   Universiti Teknologi Malaysia (UTM)
-- **Technical assistance**  
+  
+- **Technical Assistance**  
   Majlis Bandaraya Pulau Pinang (MBPP)
 
 ---
