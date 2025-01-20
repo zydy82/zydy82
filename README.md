@@ -64,6 +64,9 @@ Quiz - PC Assemble (Lab): This quiz assesses the ability to correctly identify a
 
 ### Project (Group): Design Thinking
 
+🆕 Design Thinking Task: Big Data and Artificial Intelligence New Innovation
+This task focuses on applying the design thinking process to address challenges related to Big Data and Artificial Intelligence. Students are required to collaboratively work in groups to develop innovative solutions, document their process, and present their findings through a written report, a video, and a class presentation.
+
 #### **Assignment 1: Report - 10%**
 Students are required to write a report documenting all phases of the Design Thinking process based on the theme **Big Data and Artificial Intelligence - New Innovation**. The report includes:
 1. **Introduction**: Overview of the project and its objectives.
