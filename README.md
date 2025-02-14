@@ -60,7 +60,7 @@ Assignment 2: Video - IT Usage at Your Workplace: This video highlights the impl
 Assignment 3: Industry Talk 2 - Skills in University and Industry: This report focuses on analyzing the skills required for success in computer science both in university and the industry. It includes insights from industry speakers and academic research, exploring the essential skills students must develop and how they align with industry demands.
 
 #### **Assignment 4: Personal Poster**
-🆕 [https://github.com/zydy82/Assignment-3-Industry-Talk-2](https://github.com/zydy82/Assignment-3-Industry-Talk-2)  
+🆕 [https://github.com/zydy82/Assignment-4-Personal-Poster](https://github.com/zydy82/Assignment-4-Personal-Poster)  
 Assignment 4 : Personal Poster- This assignment required creating a single-page poster about myself, covering aspects such as personal background, career, education, skills, or hobbies. The design and theme were flexible, allowing for creativity in presenting key details.
 
 
