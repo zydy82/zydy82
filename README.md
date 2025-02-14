@@ -59,6 +59,13 @@ Assignment 2: Video - IT Usage at Your Workplace: This video highlights the impl
 🆕 [https://github.com/zydy82/Assignment-3-Industry-Talk-2](https://github.com/zydy82/Assignment-3-Industry-Talk-2)  
 Assignment 3: Industry Talk 2 - Skills in University and Industry: This report focuses on analyzing the skills required for success in computer science both in university and the industry. It includes insights from industry speakers and academic research, exploring the essential skills students must develop and how they align with industry demands.
 
+#### **Assignment 4: Personal Poster**
+🆕 [https://github.com/zydy82/Assignment-3-Industry-Talk-2](https://github.com/zydy82/Assignment-3-Industry-Talk-2)  
+Assignment 4 : Personal Poster- This assignment required creating a single-page poster about myself, covering aspects such as personal background, career, education, skills, or hobbies. The design and theme were flexible, allowing for creativity in presenting key details.
+
+
+
+
 ### **PC Assemble (Lab)**
 🆕 [https://github.com/zydy82/PC-Assemble-Lab](https://github.com/zydy82/PC-Assemble-Lab)  
 Quiz - PC Assemble (Lab): This quiz assesses the ability to correctly identify and describe the step-by-step process of assembling a computer hardware system. The first section focuses on labeling various components of the computer, while the second section evaluates the understanding of the correct sequence of steps for assembling a PC based on the hands-on workshop practice.
